@@ -1,5 +1,7 @@
 # Cours-Pipeline-de-traitement-de-donn-es-pour-le-Cloud
 
+1:
+
 ![image](https://user-images.githubusercontent.com/105076907/205955269-f2cd047f-c944-4b21-b6f0-6b9701c58505.png)
 
 
@@ -8,6 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/105076907/205955916-28246546-20be-4552-a1dc-5842168c237b.png)
 
+2:
 
 ![image](https://user-images.githubusercontent.com/105076907/205957635-7ee8d558-d56f-4ec1-a41e-f03e04e87afc.png)
 
