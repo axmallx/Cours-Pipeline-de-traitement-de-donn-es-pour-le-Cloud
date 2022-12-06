@@ -20,3 +20,7 @@ aws kinesis delete-stream --stream-name amal-mimouni-stock-input-stream
 
 aws kinesis create-stream --stream-name amal-mimouni-stock-input-stream --shard-count 1
 
+![image](https://user-images.githubusercontent.com/105076907/205960314-f4e96612-3d7d-4eb9-b6ec-79e7faa977c3.png)
+
+
+
