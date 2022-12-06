@@ -18,13 +18,18 @@
 ![image](https://user-images.githubusercontent.com/105076907/205957731-c6d07d54-19d2-47fb-a39a-4f9f34cd6ea8.png)
 
 
+3:
+
 ![image](https://user-images.githubusercontent.com/105076907/205958728-445dbbb3-0f66-47e0-8da9-328bdc48a08e.png)
 
+4:
 
 ![image](https://user-images.githubusercontent.com/105076907/205959804-671625c1-378a-437c-991d-18116314f063.png)
 
 
 aws kinesis delete-stream --stream-name amal-mimouni-stock-input-stream
+
+
 
 ![image](https://user-images.githubusercontent.com/105076907/205960041-9d0c9419-cfdd-46c2-ad76-d4930e168aae.png)
 
