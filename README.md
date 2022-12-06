@@ -22,5 +22,10 @@ aws kinesis create-stream --stream-name amal-mimouni-stock-input-stream --shard-
 
 ![image](https://user-images.githubusercontent.com/105076907/205960314-f4e96612-3d7d-4eb9-b6ec-79e7faa977c3.png)
 
+5.1 : Il n'arrive pas a s'identifier
+5.2 Je renseigne mes identifiants directement dans le programme python
+
+
+
 
 
