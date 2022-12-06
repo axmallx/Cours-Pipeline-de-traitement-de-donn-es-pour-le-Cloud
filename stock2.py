@@ -4,7 +4,6 @@ import random
 import boto3
 
 STREAM_NAME = "input-stream"
-REGION = "eu-north-1"
 
 def get_data():
     return {
@@ -20,6 +19,6 @@ def generate(stream_name, kinesis_client):
 
 if _name_ == '_main_':
     generate('amal-mimouni-stock-input-stream', boto3.client('kinesis', 
-aws_access_key_id="AKIA4P4ZQJMIPWJJ5VFD",
-aws_secret_access_key="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", 
+aws_access_key_id="A########FD",
+aws_secret_access_key="VQ###########p5J8", 
 region_name="eu-north-1"))
